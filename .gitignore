@@ -15,6 +15,13 @@
 *.war
 *.nar
 *.ear
+
+/bin/
+
+.classpath
+.project
+.settings/*
+
 *.zip
 *.tar.gz
 *.rar
